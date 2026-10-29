@@ -26,15 +26,6 @@ Enterprise    : Odoo Customization | PostgreSQL | REST APIs
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=technology-maen&show_icons=true&theme=tokyonight&count_private=true" alt="Hamza's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technology-maen&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ### 📬 Connect With Me
 - 📧 **Email:** [memoamr2008@gmail.com](mailto:memoamr2008@gmail.com)
 - 📍 **Location:** Giza, Egypt
