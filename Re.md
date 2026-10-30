@@ -1,0 +1,38 @@
+![Hamza Abdelaleem Banner](watermarked_img_7105357604535450016.jpg)
+
+# Hi there, I'm Hamza Abdelaleem 👋
+
+### 🤖 Computer & Autonomous Systems Engineering Student | ML & Robotics Enthusiast
+
+I specialize in **Autonomous Systems**, **Computer Vision**, and **Machine Learning Pipelines**. I combine algorithmic problem-solving with hardware integration and full-stack software development.
+
+### 🚀 Highlights & Achievements
+
+* 🏆 **1st Place (Machine Learning Track)** – Arab Artificial Intelligence Olympiad (*AIO Egypt 2026*)
+
+* 🥉 **4th Place (Computer Vision Track)** – Arab Artificial Intelligence Olympiad (*AIO 2025*)
+
+* 🤖 **1st Place Excellence & Skills Award** – VEX IQ Egypt Championship (*Team 22331W*)
+
+* 🌐 **World Championship Finalist** – VEX Robotics World Championship (*Innovate Division*)
+
+* 💡 **ECPC Qualification Finalist** – Placed 89th in Competitive Programming Competitions
+
+### 🛠️ Tech Stack & Skills
+
+```
+Languages     : C++ | Python | SQL | C | JavaScript
+AI / Vision   : YOLO | OpenCV | PyTorch | Scikit-Learn
+Systems / OS  : Linux (Arch/Ubuntu) | Docker | Basic Server Admin | Bash
+Enterprise    : Odoo Customization | PostgreSQL | REST APIs
+```
+
+### 📬 Connect With Me
+
+* 📧 **Email:** [memoamr2008@gmail.com](mailto:memoamr2008@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/hamza-abdelaleem](https://linkedin.com/in/hamza-abdelaleem)
+* 🐙 **GitHub:** [github.com/technology-maen](https://github.com/technology-maen)
+* 📍 **Location:** Giza, Egypt
+* 🎓 **University:** Newgiza University (NGU) – CCAS Engineering
+
+*✨ "Building intelligent systems at the intersection of software and physical hardware."*
