@@ -1,3 +1,4 @@
+![Hamza Abdelaleem Banner](banner.jpg)
 # Hi there, I'm Hamza Abdelaleem 👋
 
 ### 🤖 Computer & Autonomous Systems Engineering Student | ML & Robotics Enthusiast
