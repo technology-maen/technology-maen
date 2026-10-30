@@ -1,4 +1,4 @@
-![Hamza Abdelaleem Banner](https://github.com/technology-maen/technology-maen/blob/main/banner.jpg?raw=true)
+![Hamza Abdelaleem Banner](IMG_0987.jpeg)
 # Hi there, I'm Hamza Abdelaleem 👋
 
 ### 🤖 Computer & Autonomous Systems Engineering Student | ML & Robotics Enthusiast
